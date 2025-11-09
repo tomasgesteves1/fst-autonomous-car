@@ -21,7 +21,9 @@ For simultaneous localization and mapping we used a graph based SLAM approach wi
 Loop closure was essential for the system to recognize previously visited track regions and eliminate cumulative drift in mapping and state estimation.
 
 Before loop closure:
+
 ![Before Loop Closure](/media/slam/loopclosure1.png)
 
 After loop closure:
+
 ![After Loop Closure](/media/slam/loopclosure2.png)
