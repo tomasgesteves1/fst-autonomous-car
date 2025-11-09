@@ -6,7 +6,7 @@
 
 🎥 Here is a demonstration video of the car driving autonomously on an unknown track:
 
-![Car Driving Autonomously](/media/demo.gif)
+![Car Driving Autonomously](/media/demo2.gif)
 
 🧱 The high level architecture of the autonomous pipeline is shown below:
 
